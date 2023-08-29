@@ -1,6 +1,6 @@
 # grep
 ```
-grep -ve "^#" -ve "^#" /etc/file.conf
+grep -ve "^#" -ve "^$" /etc/file.conf
 ```
 # Anydesk 
 ```
